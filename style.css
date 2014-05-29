@@ -26,6 +26,7 @@ a:hover {
     color: #5ef;
     padding-bottom: 0;
     border-bottom: 1px solid #468;
+    test:expression(target="_blank");
 }
 a:visited {
     color: #6ac;
